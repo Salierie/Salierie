@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Salierie. Despite how girly the name sounds, i'm actually a dude
+- 👋 Hi, I’m @Salierie. 
 - 👀 I’m interested in Computer networking and Cyber Securities stuff
 - 🌱 I’m currently learning Javascript, specifically in the nodejs framework. I'm also interested in linux and many more
 
