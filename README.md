@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Salierie. 
-- 👀 I’m interested in Computer networking and Cyber Securities stuff
-- 🌱 I’m currently learning Javascript, specifically in the nodejs framework. I'm also interested in linux and many more
+- 👀 I’m a CompSci major whose main focus is Cybersecurity
+- 🌱 I’m currently learning different javascript frameworks
+- Two years experience in Linux, has been distro hopping everynow and then
 
 - 📫 How to reach me: @unicycledog on twitter
 - May god forgive me for not buying bitcoin back in 2011 but being a 6 year old instead.
