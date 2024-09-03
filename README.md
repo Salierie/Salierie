@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salierie. 
-- 👀 I’m a CompSci major whose main focus is Cybersecurity
+- 👀 I’m a CompSci student who major in Cybersecurity
 - 🌱 I’m currently learning different javascript frameworks
 - Two years experience in Linux, has been distro hopping everynow and then
 
