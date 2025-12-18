@@ -20,7 +20,3 @@
     * **Link:** [MetaCTF July 2025 Flash CTF](https://www.linkedin.com/in/salierie/details/certifications/1755794707551/single-media-viewer?type=DOCUMENT&profileId=ACoAAFaMNOYBH4eDkiwK6Y9iqIOQnVIabCefWWw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BMJylnu1qQG2pgYcTSIaOAA%3D%3D)
 
 ---
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salierie/) 
----
