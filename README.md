@@ -18,5 +18,15 @@
     * **Ranking:** 131 / 969 Total Players
     * **Challenges solved:** Misc, Cryptography, Forensics, Reverse Engineering 
     * **Link:** [MetaCTF July 2025 Flash CTF](https://www.linkedin.com/in/salierie/details/certifications/1755794707551/single-media-viewer?type=DOCUMENT&profileId=ACoAAFaMNOYBH4eDkiwK6Y9iqIOQnVIabCefWWw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BMJylnu1qQG2pgYcTSIaOAA%3D%3D)
+      
+* **HackTheBox - UniversityCTF 2025**
+    * **Ranking:** 486 / 4450 Total Players
+    * **Challenges solved:** Cryptography, OSINT, Coding 
+    * **Link:** [HackTheBox - UniversityCTF 2025](https://www.linkedin.com/in/salierie/details/certifications/1766628579093/single-media-viewer?type=DOCUMENT&profileId=ACoAAFaMNOYBH4eDkiwK6Y9iqIOQnVIabCefWWw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BebpsB%2BsBRCOWNssIH8UCcg%3D%3D)
+      
+* **Advent of Cyber 2025**
+    * **Ranking:** Unranked
+    * **Challenges solved:** Miscellaneous 
+    * **Link:** [Advent of Cyber 2025](https://www.linkedin.com/in/salierie/details/certifications/1766627634134/single-media-viewer?type=DOCUMENT&profileId=ACoAAFaMNOYBH4eDkiwK6Y9iqIOQnVIabCefWWw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bt%2FSUQRhITSeUfNf3mQLpvg%3D%3D)
 
 ---
