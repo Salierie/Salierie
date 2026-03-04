@@ -3,7 +3,7 @@
 ## Personal Information
 - **Full Name:** Huỳnh Thiên Văn
 - **Role:** Jobless | CTF Player
-- **Blog (kind of):** https://hackmd.io/@0IcPLP0CTHKb8RbHp8Vr6g
+- **Blog (kind of):** [HackMD](https://hackmd.io/@0IcPLP0CTHKb8RbHp8Vr6g)
 ---
 ## Certifications
 * **Web Penetration Testing**
